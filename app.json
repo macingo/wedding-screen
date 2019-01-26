@@ -1,0 +1,7 @@
+{
+  "name": "Wedding-screen",
+  "description": "wedding webapp",
+  "repository": "https://github.com/ueewbdy93/wedding-screen",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "websocket", "react", "redux", "typescript"]
+}
