@@ -5,12 +5,8 @@
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["node", "websocket", "react", "redux", "typescript"],
   "env": {
-    "FTP_USER":{
-      "description": "username for FTP"
-    },
-    "FTP_PASSWORD":{
-      "description": "password for FTP"
+    "DOWNLOAD_URL":{
+      "description": "下載連結"
     }
-  },
-  "image": "node:10"
+  }
 }
